@@ -91,16 +91,6 @@ Only completed files will be added. The planned filenames are a roadmap, not fil
 - [ ] Explain limitations and avoid unsupported causal claims
 - [ ] Publish the notebook and update this README on GitHub
 
-## Current Notebook: NumPy Learning Practice
-
-`NumPy_Learning_Practice.ipynb` covers the complete NumPy checklist above using self-contained examples. Each exercise follows the format:
-
-1. An English question or topic heading
-2. A concise code-only solution
-3. Output rendered by Jupyter automatically
-
-The notebook includes array creation, inspection, indexing, reshaping, transposing, broadcasting, vectorization, aggregations, Boolean masks, random number generation, linear algebra, and copy-versus-view behavior.
-
 ## Setup
 
 Install the required packages:
