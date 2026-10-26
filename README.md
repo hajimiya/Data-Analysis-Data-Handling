@@ -1,6 +1,6 @@
 # Data Analysis & Data Handling
 
-A structured, hands-on learning repository covering Python tools and workflows used for data analysis, data handling, visualization, exploratory data analysis (EDA), and data preprocessing.
+A structured, hands-on learning repository covering Python tools and workflows used for data analysis, data handling, visualization, and data preprocessing.
 
 The repository is organized as a learning roadmap. Each completed topic will have a focused Jupyter Notebook with questions or topic headings followed by concise code solutions and notebook-generated outputs. A separate end-to-end project will be added after the core learning notebooks.
 
