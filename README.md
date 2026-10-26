@@ -9,15 +9,11 @@ The repository is organized as a learning roadmap. Each completed topic will hav
 ```text
 Data-Analysis-Data-Handling/
 ├── README.md
-├── NumPy_Learning_Practice.ipynb
-├── Pandas_Learning_Practice.ipynb             # planned
-├── Data_Visualization_Practice.ipynb           # planned
-├── Data_Preprocessing_and_EDA.ipynb            # planned
-└── projects/
-    └── end_to_end_data_analysis_project.ipynb  # planned
+├── NumPy_Learning.ipynb
+├── Pandas_Learning.ipynb            
+├── Data_Visualization_Learning.ipynb                      
+└── Online_Retail_Data_Analysis_Project.ipynb  
 ```
-
-Only completed files will be added. The planned filenames are a roadmap, not files that are already present.
 
 ## Learning Roadmap
 
@@ -37,59 +33,46 @@ Only completed files will be added. The planned filenames are a roadmap, not fil
 
 ### B. Pandas
 
-- [ ] Series and DataFrame
-- [ ] Read and write CSV, Excel and JSON
-- [ ] Inspecting data and data types
-- [ ] Selecting rows and columns
-- [ ] Filtering and sorting
-- [ ] Missing-value detection and handling
-- [ ] Duplicate detection and removal
-- [ ] GroupBy and aggregation
-- [ ] Merge, join and concatenation
-- [ ] Date/time data
-- [ ] String and categorical operations
-- [ ] Apply, map and vectorized operations
-- [ ] Export cleaned data
+- [x] Series and DataFrame
+- [x] Read and write CSV, Excel and JSON
+- [x] Inspecting data and data types
+- [x] Selecting rows and columns
+- [x] Filtering and sorting
+- [x] Missing-value detection and handling
+- [x] Duplicate detection and removal
+- [x] GroupBy and aggregation
+- [x] Merge, join and concatenation
+- [x] Date/time data
+- [x] String and categorical operations
+- [x] Apply, map and vectorized operations
+- [x] Export cleaned data
 
 ### C. Data Visualization
 
-- [ ] Matplotlib fundamentals
-- [ ] Seaborn fundamentals
-- [ ] Line, bar and scatter plots
-- [ ] Histograms and distribution plots
-- [ ] Box plots
-- [ ] Heatmaps
-- [ ] Correlation visualization
-- [ ] Chart labeling and interpretation
-- [ ] Choosing the right chart
-- [ ] Plotly interactive visualization
-- [ ] Cufflinks interactive charts
+- [x] Matplotlib fundamentals
+- [x] Seaborn fundamentals
+- [x] Line, bar and scatter plots
+- [x] Histograms and distribution plots
+- [x] Box plots
+- [x] Heatmaps
+- [x] Correlation visualization
+- [x] Chart labeling and interpretation
+- [x] Choosing the right chart
+- [x] Plotly interactive visualization
+- [x] Cufflinks interactive charts
 
-### D. Data Preprocessing and EDA
-
-- [ ] Data collection and data quality checks
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Numerical and categorical features
-- [ ] Missing-data handling
-- [ ] Outlier detection
-- [ ] Feature scaling and normalization
-- [ ] One-hot and ordinal encoding
-- [ ] Train/validation/test split
-- [ ] Data leakage prevention
-- [ ] Imbalanced-data awareness
-- [ ] Basic data pipelines
-- [ ] Jupyter Notebook and Google Colab
-- [ ] SQL revision for data analysis
 
 ## End-to-End Project Plan
 
-- [ ] Choose a real, documented dataset
-- [ ] Record the dataset source and license
-- [ ] Clean and validate the data
-- [ ] Perform EDA and create suitable visualizations
-- [ ] Write at least 5–10 evidence-based insights
-- [ ] Explain limitations and avoid unsupported causal claims
-- [ ] Publish the notebook and update this README on GitHub
+- [x] Choose a real, documented dataset
+- [x] Record the dataset source and license
+- [x] Clean and validate the data
+- [x] Perform EDA and create suitable visualizations
+- [x] Write at least 5–10 evidence-based insights
+- [x] Explain limitations and avoid unsupported causal claims
+- [x] Publish the notebook and update this README on GitHub
+
+
 
 ## Setup
 
@@ -105,15 +88,8 @@ Start Jupyter Notebook:
 jupyter notebook
 ```
 
-Open `NumPy_Learning_Practice.ipynb` and choose **Run All** to run every cell in order. The notebook uses a fixed random seed where reproducibility matters.
+Open `NumPy_Learning.ipynb` and choose **Run All** to run every cell in order. The notebook uses a fixed random seed where reproducibility matters.
 
-## Progress Notes
-
-- Check a topic only after you have studied it and can explain the solution.
-- Run all notebook cells before committing changes.
-- Keep the notebook focused and readable.
-- Add new learning notebooks as each library or topic is completed.
-- Keep the repository's single roadmap and progress checklist in this `README.md`.
 
 ## Disclaimer
 
